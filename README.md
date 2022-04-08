@@ -1,2 +1,2 @@
-# pyQbot
-A QQbot with Python
+# Readme.md
+赞同
